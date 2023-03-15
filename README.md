@@ -9,9 +9,10 @@ Klipper 0.11.0
 ## Software
 ___
 
-- __Slicer__: SuperSlicer
-- __Web Interface__: Mainsail
-- __Local Interface__: KlipperScreen
+- __Slicer__: [SuperSlicer](https://github.com/supermerill/SuperSlicer)
+- __API__: [Moonraker](https://github.com/arksine/moonraker)
+- __Web Interface__: [Mainsail](https://docs.mainsail.xyz)
+- __Local Interface__: [KlipperScreen](https://klipperscreen.readthedocs.io/en/latest/)
 ## Helpful References
 ___
 

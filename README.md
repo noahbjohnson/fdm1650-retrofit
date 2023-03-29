@@ -32,3 +32,7 @@ ___
  - [SuperSlicer Macro & Variable List](https://github.com/supermerill/SuperSlicer/wiki/Macro-&-Variable-list)
  - [PrusaSlicer Macro Reference](https://help.prusa3d.com/article/macros_1775)
  - [PrusaSlicer Placeholders](https://help.prusa3d.com/article/list-of-placeholders_205643)
+
+ ## License
+
+ This work is licensed under the MIT License. See the LICENSE file for details.

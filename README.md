@@ -11,6 +11,8 @@ ___
 
 - __Slicer__: [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 - __API__: [Moonraker](https://github.com/arksine/moonraker)
+- __Camera Host__: [Crowsnest](https://crowsnest.mainsail.xyz)
+- __Timelapse Support__: [Moonraker-Timelapse](https://github.com/mainsail-crew/moonraker-timelapse)
 - __Web Interface__: [Mainsail](https://docs.mainsail.xyz)
 - __Local Interface__: [KlipperScreen](https://klipperscreen.readthedocs.io/en/latest/)
 ## Helpful References
